@@ -1,17 +1,13 @@
 ---
 
-title:  程序分析
+title:  程序分析：方法与技术概览
 icon:   search
 author: 776styjsu
 index:  true
+order: 1
 ---
 
-[//]: # (<Catalog />)
-
-# 程序分析
-
-[//]: # (不是我喜欢的图片，直接不用)
-[//]: # (![形式化验证 by Rahulbhalerao001`]&#40;images/formal-verification.png&#41;{style="background-color: white; display: inline-block; padding: 0.5em; width: 50%;"})
+<Catalog />
 
 ## 1. 引言与动机
 假设你写了一个程序。你能知道关于它的什么信息呢？一个程序分析工具可以回答诸如以下的问题：
