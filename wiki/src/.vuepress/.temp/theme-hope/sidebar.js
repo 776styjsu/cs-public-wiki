@@ -1,1 +1,0 @@
-export const sidebarData = {"/contents/common/":[{"text":"基础知识和基本操作","prefix":"basics/","collapsible":true,"children":["compressions"]}],"/contents/specialized/":[],"/contents/about/":["contribute","specifications",{"text":"本百科的 Markdown 语法","prefix":"markdown/","collapsible":true,"icon":"code","children":["","basic-markdown","enhanced-markdown"]}]};
