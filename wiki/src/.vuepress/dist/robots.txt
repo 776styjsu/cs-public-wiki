@@ -1,5 +1,0 @@
-
-User-agent:*
-Disallow:
-
-Sitemap: https://to-be-decided/cs-public-wiki/sitemap.xml
